@@ -25,21 +25,21 @@
 //Result: Jab loop complete ho jaye, tumhare paas largest element aa jayega
 
 
-public class LargestArray {
+// public class LargestArray {
 
-    public static int largest(int[] arr) {
-        // code here
-        int max = 0;
-        int N = arr.length;
-        for (int i = 0 ; i<N; i ++){
-            if (arr[i]>max){
-                max=arr[i];
-            }
-        }
-    return max;
-}
+//     public static int largest(int[] arr) {
+//         // code here
+//         int max = 0;
+//         int N = arr.length;
+//         for (int i = 0 ; i<N; i ++){
+//             if (arr[i]>max){
+//                 max=arr[i];
+//             }
+//         }
+//     return max;
+// }
 
-}
+// }
 
 // Step by Step Process:
 // Initial assumption: Pehla element ko "largest" maan lo.
