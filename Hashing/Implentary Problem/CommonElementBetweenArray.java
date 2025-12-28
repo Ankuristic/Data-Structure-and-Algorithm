@@ -1,5 +1,7 @@
 // this problem only checking exsistence
 
+import java.*;
+
 class Solution {
     public int[] findIntersectionValues(int[] nums1, int[] nums2) {
 
